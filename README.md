@@ -1,1 +1,1 @@
-# Textract
+# OCR using Amazon Textract
